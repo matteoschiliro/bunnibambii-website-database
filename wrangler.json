@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bunnibambii-website-database",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "1cf9ad4e-cce7-442d-aba7-b3393d3359a8",
+			"database_name": "db-bunnibambii"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
